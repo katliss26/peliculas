@@ -27,3 +27,7 @@ Tener un dispositivo (teléfono o tablet) conectado a la pc o tener configurado 
 ```
 flutter run
 ```
+
+Y con este pequeño manual ya podrías ejecutar la aplicación
+
+Para información adicional puedes contactarme por katliss.26@gmail.com o por telegram katliss26
